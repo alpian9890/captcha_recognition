@@ -1,0 +1,9 @@
+batch_size: 16
+height: 40
+learning_rate: 0.001
+max_text_length: 5
+model_path: Models/captcha_to_text\202502201804
+train_epochs: 300
+train_workers: 20
+vocab: R7QsLXq3mCyrOu6hADcgFZKzVHdPkWBiSeGTjYM1JfE9n8bxpN5wlU24avIt
+width: 150
